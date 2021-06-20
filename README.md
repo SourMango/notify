@@ -1,3 +1,8 @@
+# why clone
+m1 compile fail because of notify. To fix it, create this project.
+
+
+
 # Notify
 
 [![» Crate](https://flat.badgen.net/crates/v/notify)][crate]
